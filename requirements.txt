@@ -1,0 +1,9 @@
+
+groq
+python-dotenv
+keyring
+pynput
+sounddevice
+numpy
+pyautogui
+pyperclip
